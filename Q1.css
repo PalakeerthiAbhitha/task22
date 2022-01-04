@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    font-family: "lato",sans-serif;
+    font-weight: bold;
+}
+.btn-primary{
+    background-color:salmon;
+}
+.card{
+    height: 100%;
+    border: 1px solid black;
+    color:palevioletred;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top left;
+
+}
+.a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
